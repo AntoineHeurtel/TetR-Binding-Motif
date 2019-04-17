@@ -1,1 +1,0 @@
-TetR Binding Motif
