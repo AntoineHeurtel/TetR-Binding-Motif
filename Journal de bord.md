@@ -217,10 +217,17 @@ Regarder les structures des protéines homologues sur le site uniprot. Parser la
 - rédaction
 - perte des données de Nébuleuses : retour à la version du 11/4
 # 16/4/19
-- 🆙 Nébuleuse : WebLogo et msa
 - chimera
+- 🆙 Nébuleuse : WebLogo et msa
 - plot
 # 17/4/19
+- chimera
+# 18/4/19
+- pyproteins
+  - 🆙 alignement
+  - 🆙 readme pyproteinsExt
+- 🆙 Nebuleuse : lien avec la lib de Guillaume pour alignement de séquences et parser de séquence de PDB.
+# 19/4/19
 
 
 revoir le paramètre START de WL.
@@ -273,6 +280,7 @@ revoir le paramètre START de WL.
 [] voir http://endscript.ibcp.fr/ESPript/cgi-bin/ESPript.cgi
 [] stat des séquence (cf 28/3)
 [] initialisateur mettre à jour tous les self.trucFile
+[] Revoir verifFile
 
 x : fait      / : fait a moitié      - : en cours
 ! : urgent    ? : allô huston        o : condition requise pour
