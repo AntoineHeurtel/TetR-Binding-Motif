@@ -228,6 +228,7 @@ Regarder les structures des protéines homologues sur le site uniprot. Parser la
   - 🆙 readme pyproteinsExt
 - 🆙 Nebuleuse : lien avec la lib de Guillaume pour alignement de séquences et parser de séquence de PDB.
 # 19/4/19
+- implémentation de la cellule qui permet de récupérer les match entre chiméra et UniProt
 
 
 revoir le paramètre START de WL.
@@ -276,6 +277,11 @@ revoir le paramètre START de WL.
     [] Charger les séquences depuis le fasta
     [] Entre les séquences communes
         [] Identifiants UniProt commun ?
+[-] Chiméra et PDB
+    [x] parser seq chiméra
+    [x] parser PDB
+    [] intersec chiméra et PDB
+    [] intersec avec seq UniProt
 
 [] voir http://endscript.ibcp.fr/ESPript/cgi-bin/ESPript.cgi
 [] stat des séquence (cf 28/3)
