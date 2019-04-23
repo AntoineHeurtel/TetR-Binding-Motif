@@ -229,6 +229,9 @@ Regarder les structures des protéines homologues sur le site uniprot. Parser la
 - 🆙 Nebuleuse : lien avec la lib de Guillaume pour alignement de séquences et parser de séquence de PDB.
 # 19/4/19
 - implémentation de la cellule qui permet de récupérer les match entre chiméra et UniProt
+# 23/4/19
+- 🆙 Nébuleuse : msa (définition sequence master) + WebLogo + Clustal
+- 🆙 Proteinus : msa + WebLogo + Clustal ; 🆙 Chiméra : rédaction
 
 
 revoir le paramètre START de WL.
