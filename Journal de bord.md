@@ -312,8 +312,12 @@ Arguments pour les textes des plot : https://matplotlib.org/api/text_api.html#ma
 - Début des résultats stat
 # 26/4/19
 - Rédaction des résultats du rapport de stage
+# 29/4/19
+- 🆙 fonction plotons : debug
+- Calcul de la séquence *Atom* du PDB
+- Rédaction
+# 30/4/19
 
-revoir le paramètre START de WL.
 
 
 # ToDo list
@@ -344,8 +348,8 @@ revoir le paramètre START de WL.
         [] paramWebLogo
         [x] revoir le LABEL
     [x] intégrer à Proteinus
-    [] Plot de l’entropie
-        [] afficher les points qui dépassent un certains seuils
+    [/] Plot de l’entropie
+        [❌] afficher les points qui dépassent un certains seuils
 
 [-] Homologues
     [x] Télécharger le résultat de Blast
@@ -362,8 +366,8 @@ revoir le paramètre START de WL.
     [x] représentation statistique (boxplot) de la conservation
     [] télécharger les pdb depuis la toile d’araignée mondiale
 
-[] voir http://endscript.ibcp.fr/ESPript/cgi-bin/ESPript.cgi
-[] stat des séquence (cf 28/3)
+[❌] voir http://endscript.ibcp.fr/ESPript/cgi-bin/ESPript.cgi
+[/] stat des séquence (cf 28/3)
 [] initialisateur mettre à jour tous les self.trucFile
 
 x : fait      / : fait a moitié      - : en cours
