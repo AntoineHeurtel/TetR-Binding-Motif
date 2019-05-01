@@ -317,8 +317,18 @@ Arguments pour les textes des plot : https://matplotlib.org/api/text_api.html#ma
 - Calcul de la séquence *Atom* du PDB
 - Rédaction
 # 30/4/19
+- Rédaction
+- DEBUG Proteinus :
+	- 🆙 Blast : add avertissement
+	- 🆙 Clustalo exécution obligatoire en Python3 ! et il doit être dans le path (à défaut d'alias)
+	- 🆙 WebLogo2domains : implémentation fonction qui manquait
+- Commit (daté le 1er mai)
 
-
+```
+##################
+# FIN DE RAPPORT #
+##################
+```
 
 # ToDo list
 
